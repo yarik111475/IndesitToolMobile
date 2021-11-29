@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HeaderBar.qml</file>
+        <file>AboutDialog.qml</file>
+        <file>SettingsDialog.qml</file>
+        <file>OpenFileDialog.qml</file>
+        <file>ProgressDialog.qml</file>
+        <file>BusyDialog.qml</file>
+        <file>InformationDialog.qml</file>
+        <file>TestFaultModel.qml</file>
+        <file>FaultDelegate.qml</file>
+        <file>ApplianceDelegate.qml</file>
+        <file>TestEepModel.qml</file>
+        <file>FaultDialog.qml</file>
+        <file>LogoDialog.qml</file>
+        <file>MenuDialog.qml</file>
+        <file>main_test.qml</file>
+        <file>icons/about.png</file>
+        <file>icons/cancel.png</file>
+        <file>icons/connect.png</file>
+        <file>icons/menu.png</file>
+        <file>icons/ok.png</file>
+        <file>icons/open.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/read.png</file>
+        <file>icons/scan.png</file>
+        <file>icons/select.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/warning.png</file>
+        <file>icons/wash.png</file>
+        <file>icons/write.png</file>
+        <file>icons/save.png</file>
+        <file>icons/information.png</file>
+        <file>icons/add_to_base.png</file>
+        <file>database/faults.db</file>
+    </qresource>
+    <qresource prefix="/lang">
+        <file>ServiceToolMobile_en.qm</file>
+        <file>ServiceToolMobile_ru.qm</file>
+    </qresource>
+</RCC>
